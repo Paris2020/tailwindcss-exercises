@@ -1,0 +1,19 @@
+{
+  "name": "tailwindcss-exercises",
+  "version": "1.0.0",
+  "description": "CSS Framework:Tailwind CSS Exercises ",
+  "main": "index.js",
+  "scripts": {
+    "test": "tailwind"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Paris2020/tailwindcss-exercises.git"
+  },
+  "author": "Nelly Moseki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paris2020/tailwindcss-exercises/issues"
+  },
+  "homepage": "https://github.com/Paris2020/tailwindcss-exercises#readme"
+}
